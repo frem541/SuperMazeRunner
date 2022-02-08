@@ -1,0 +1,41 @@
+Y  g
+BY
+GY
+RY
+
+R  g
+RB
+
+B  g
+RB
+GB
+
+G  g
+GB
+
+RBY
+BGY
+
+RGB
+RGY
+
+RGBY g
+ 
+R    g
+G    g
+B    g
+Y    g
+RG   g
+RGB  g
+RGY  g
+RGBY g
+
+RB   g
+RBY  g
+
+RY   g
+
+BY   g
+GY   g
+RBY  g
+BG   g
